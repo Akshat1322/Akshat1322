@@ -18,8 +18,6 @@
 
 - 🌱 Deep diving into **LLMOps, Agentic AI & System Design**
 
-- 🛠️ Running models locally with **Ollama** on my RTX 4050
-
 - ⚡ I debug at midnight and somehow it always works 🌙
 
 ---
