@@ -66,8 +66,8 @@
 ---
 
 ## 🌐 Connect With Me  
-- 💼 LinkedIn: (Add your link here)  
-- 📧 Email: (optional)
+- 💼 LinkedIn: (www.linkedin.com/in/akshat-sharma-7183b7288)  
+- 📧 Email: (akshatsharma1322ags@gmail.com)
 
 ---
 
