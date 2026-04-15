@@ -1,106 +1,79 @@
 cat << 'EOF' > README.md
-<h1 align="center">Akshat Sharma</h1>
-<h3 align="center">⚡ Building Scalable AI Systems with LLMs · RAG · Agentic Workflows</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Akshat%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=520&lines=From+LLMs+to+Real-World+AI+Systems;RAG+%7C+Agents+%7C+Memory+%7C+Tooling;Designing+intelligent+systems+that+reason+%26+act" />
+  <a href="https://www.linkedin.com/in/akshat-sharma-7183b7288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akshatsharma1322ags@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Agentic+Workflows;Optimizing+RAG+Pipelines;Developing+Scalable+AI+Systems;91%+AUC+Churn+Prediction+Models" />
 </p>
 
 ---
 
-<h2>🧠 What I Do</h2>
+### ⚡ System Overview
 
-<ul>
-  <li>Build <b>end-to-end AI systems</b> using LLMs, RAG & agentic workflows</li>
-  <li>Focus on <b>retrieval, reasoning, and system design</b></li>
-  <li>Turn <b>LLM capabilities into real-world applications</b></li>
-</ul>
-
----
-
-<h2>⚙️ Current Focus</h2>
-
-<ul>
-  <li>🧩 <b>Agentic AI Systems</b> (multi-agent workflows, tool usage, memory)</li>
-  <li>📚 <b>RAG Pipelines</b> (retrieval optimization, chunking, embeddings)</li>
-  <li>🏗️ <b>LLM System Design</b> (scalability, latency, modular pipelines)</li>
-  <li>🔬 Exploring <b>LLMOps & local inference (Ollama)</b></li>
-</ul>
+\`\`\`yaml
+user: Akshat Sharma
+role: Machine Learning Engineer | AI Architect
+location: Jaipur, India
+status: [Building Scalable AI Systems, Pursuing B.Tech @ JECRC]
+philosophy: "Code is cheap, architecture is everything."
+\`\`\`
 
 ---
 
-<h2>🚀 Featured Work</h2>
-
-<h3>🔍 Adaptive AI Research Assistant</h3>
-<p><i>Multi-agent system for intelligent research & knowledge synthesis</i></p>
-
-<ul>
-  <li>Combines <b>RAG + agents + real-time web retrieval</b></li>
-  <li>Supports <b>document ingestion, semantic search & contextual memory</b></li>
-  <li>Implements <b>dynamic agent routing & tool usage</b></li>
-  <li>Designed as a <b>modular, scalable AI system</b></li>
-</ul>
-
-<p>📂 <b>Repo:</b> <a href="#">View Project</a></p>
-
----
-
-<h3>💰 Finance Tracker (AI-Enhanced)</h3>
-<p><i>Data-driven financial insights with lightweight AI integration</i></p>
-
-<ul>
-  <li>Built with <b>Python + Streamlit</b></li>
-  <li>Focus on <b>usability + insight generation</b></li>
-</ul>
-
-<p>📂 <b>Repo:</b> <a href="#">View Project</a></p>
-
----
-
-<h2>🧰 Tech Stack</h2>
-
-<p><b>Core</b><br/>
-Python · LLMs · RAG · NLP · Deep Learning</p>
-
-<p><b>GenAI / Systems</b><br/>
-LangChain · LlamaIndex · FAISS · HuggingFace · Ollama</p>
-
-<p><b>ML / DL</b><br/>
-Scikit-learn · PyTorch</p>
-
-<p><b>Tools</b><br/>
-Streamlit · Git · VS Code</p>
-
----
-
-<h2>📊 Activity</h2>
-
+### 🏆 Achievements & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat1322&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1322&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshat1322&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="trophy" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshat1322&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akshat1322&show_icons=true&theme=tokyonight&count_private=true" height="175"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1322&layout=compact&theme=tokyonight" height="175"/></td>
+  </tr>
+</table>
 
 ---
 
-<h2>🤝 Connect</h2>
+### 🛠️ Tech Stack Grid
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshat-sharma-7183b7288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:akshatsharma1322ags@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,pytorch,sklearn,tensorflow,git,docker,fastapi,linux,vscode" />
+</p>
+
+**Deep Learning & GenAI Core:**
+`LangChain` • `LlamaIndex` • `HuggingFace` • `FAISS` • `Ollama` • `XGBoost` • `Optuna`
+
+---
+
+### 📂 Featured Deployments
+
+| Project | Core Tech | Impact |
+| :--- | :--- | :--- |
+| **[Adaptive Research Agent](https://github.com/Akshat1322)** | Agents + RAG | Multi-agent autonomous synthesis |
+| **[Churn Predictor](https://github.com/Akshat1322)** | XGBoost + SHAP | **91% AUC-ROC** achievable accuracy |
+| **[Route Optimizer](https://github.com/Akshat1322)** | Genetic Algos | **28% distance reduction** vs baseline |
+| **[Defect Detection](https://github.com/Akshat1322)** | EfficientNet | **94% F1-Score** in real-time |
+
+---
+
+### 📈 Activity Pulse
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshat1322&theme=tokyonight&border_radius=5" />
 </p>
 
 ---
 
-<h2>⚡ Philosophy</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
+</p>
 
-<p><i>“AI is not just about models — it's about systems that can reason, retrieve, and act.”</i></p>
-
+<p align="right">
+  <i>Last updated: April 2026</i>
+</p>
 EOF
