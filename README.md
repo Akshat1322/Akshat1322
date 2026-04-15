@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 <h1 align="center">Akshat Sharma</h1>
 <h3 align="center">⚡ Building Scalable AI Systems with LLMs · RAG · Agentic Workflows</h3>
 
@@ -103,4 +102,3 @@ Streamlit · Git · VS Code</p>
 
 <p><i>“AI is not just about models — it's about systems that can reason, retrieve, and act.”</i></p>
 
-EOF
