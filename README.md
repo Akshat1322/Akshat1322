@@ -52,7 +52,7 @@
   <li>Cost & time savings metrics as output</b></li>
 </ul>
 
-<p>📂 <b>Repo:</b> <a href="#">View Project</a></p>
+<p>📂 <b>Repo:</b> <a href="https://github.com/Akshat1322/Supply-chain-route-optimizer">View Project</a></p>
 
 ---
 
