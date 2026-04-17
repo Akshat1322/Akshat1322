@@ -44,12 +44,12 @@
 
 ---
 
-<h3>💰 Finance Tracker (AI-Enhanced)</h3>
-<p><i>Data-driven financial insights with lightweight AI integration</i></p>
+<h3>Supply chain route optimizer using genetic algorithms</h3>
+<p><i>Solve Vehicle Routing Problem (VRP) for delivery scheduling</i></p>
 
 <ul>
   <li>Built with <b>Python + Streamlit</b></li>
-  <li>Focus on <b>usability + insight generation</b></li>
+  <li>Cost & time savings metrics as output</b></li>
 </ul>
 
 <p>📂 <b>Repo:</b> <a href="#">View Project</a></p>
