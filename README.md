@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ML%20%26%20DL-XGBoost%20·%20EfficientNet%20·%20PyTorch-7F77DD?style=flat-square"/>
   <img src="https://img.shields.io/badge/Explainability-SHAP%20·%20Grad--CAM-1D9E75?style=flat-square"/>
   <img src="https://img.shields.io/badge/Optimization-DEAP%20·%20OR--Tools%20·%20Optuna-D85A30?style=flat-square"/>
   <img src="https://img.shields.io/badge/GenAI-RAG%20·%20LangChain%20·%20FAISS-378ADD?style=flat-square"/>
@@ -74,23 +73,6 @@
 - Deployed live demo with **image upload & real-time webcam inference**
 
 **[View Project →](https://github.com/Akshat1322/Real-time-defect-detection-system)**
-
----
-
-### 🔬 Adaptive AI Research Assistant
-> Multi-agent RAG system for intelligent research & knowledge synthesis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7F77DD?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-
-- Combines **RAG + agents + real-time web retrieval** for intelligent synthesis
-- Supports **document ingestion, semantic search & contextual memory**
-- Implements **dynamic agent routing & tool usage**
-
-**[View Project →](#)**
 
 ---
 
