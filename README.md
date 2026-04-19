@@ -1,117 +1,130 @@
 <h1 align="center">Akshat Sharma</h1>
-<h3 align="center">⚡ Building Scalable AI Systems · ML · Deep Learning · LLMs · RAG</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=End-to-End+ML+%7C+Deep+Learning+%7C+GenAI;XGBoost+%7C+EfficientNet+%7C+SHAP+%7C+Grad-CAM;RAG+%7C+Agents+%7C+Memory+%7C+Tooling;Building+AI+that+explains+itself" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=620&lines=End-to-End+ML+%7C+Deep+Learning+%7C+GenAI;XGBoost+%7C+EfficientNet+%7C+SHAP+%7C+Grad-CAM;Genetic+Algorithms+%7C+OR-Tools+%7C+Optimization;RAG+%7C+Agents+%7C+Memory+%7C+Tooling;Building+AI+that+explains+itself" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML%20%26%20DL-XGBoost%20·%20EfficientNet%20·%20PyTorch-7F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Explainability-SHAP%20·%20Grad--CAM-1D9E75?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Optimization-DEAP%20·%20OR--Tools%20·%20Optuna-D85A30?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GenAI-RAG%20·%20LangChain%20·%20FAISS-378ADD?style=flat-square"/>
 </p>
 
 ---
 
-<h2>🧠 What I Do</h2>
-<ul>
-  <li>Build <b>end-to-end ML & DL systems</b> with explainability (SHAP, Grad-CAM)</li>
-  <li>Design <b>metaheuristic optimization pipelines</b> for real-world logistics problems</li>
-  <li>Develop <b>GenAI applications</b> using LLMs, RAG pipelines & agentic workflows</li>
-  <li>Focus on <b>production-ready AI</b> that reasons, retrieves, and acts</li>
-</ul>
+## 🧠 About me
+
+- Build **end-to-end ML & DL systems** with explainability (SHAP, Grad-CAM)
+- Design **metaheuristic optimization pipelines** for real-world logistics problems
+- Develop **GenAI applications** using LLMs, RAG pipelines & agentic workflows
+- CS undergraduate @ JECRC University | AI & ML Specialization | CGPA: 8.55
 
 ---
 
-<h2>⚙️ Current Focus</h2>
-<ul>
-  <li>🤖 <b>Explainable ML</b> — SHAP, Grad-CAM, interpretable model outputs</li>
-  <li>🧬 <b>Computer Vision</b> — Transfer learning, EfficientNet, anomaly detection</li>
-  <li>🧩 <b>Optimization</b> — Genetic Algorithms, Simulated Annealing, OR-Tools</li>
-  <li>📚 <b>RAG Pipelines</b> — retrieval optimization, chunking, vector embeddings</li>
-  <li>🔬 <b>LLMOps & local inference</b> — Ollama, LangChain, LlamaIndex</li>
-</ul>
+## 🚀 Featured projects
+
+### 📉 End-to-End Customer Churn Prediction System
+> Explainable ML pipeline for telecom customer churn · **91% AUC-ROC**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-7F77DD?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- Achieved **91% AUC-ROC** using XGBoost with Optuna hyperparameter tuning & stratified k-fold CV
+- Integrated **SHAP** for per-prediction feature importance & waterfall plots
+- Deployed **Streamlit dashboard** with risk scores, revenue-at-risk estimates & MLflow tracking
+
+**[View Project →](https://github.com/Akshat1322/Customer-churn-predictor)**
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+### 🚚 Supply Chain Route Optimizer using Genetic Algorithms
+> Metaheuristic VRP solver · **28% route distance reduction**
 
-<h3>📉 End-to-End Customer Churn Prediction System</h3>
-<p><i>Explainable ML pipeline for telecom customer churn prediction</i></p>
-<ul>
-  <li>Achieved <b>91% AUC-ROC</b> using XGBoost with Optuna hyperparameter tuning & stratified k-fold CV</li>
-  <li>Integrated <b>SHAP</b> for per-prediction feature importance & waterfall plots</li>
-  <li>Deployed <b>Streamlit dashboard</b> with risk scores, revenue-at-risk estimates & MLflow experiment tracking</li>
-  <li><b>Stack:</b> Python · XGBoost · SHAP · Optuna · MLflow · Streamlit</li>
-</ul>
-<p>📂 <b>Repo:</b> <a href="https://github.com/Akshat1322/Customer-churn-predictor">View Project</a></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DEAP](https://img.shields.io/badge/DEAP-1D9E75?style=flat-square)
+![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
----
+- Solved 50-node VRP using custom **Genetic Algorithm (DEAP)**, benchmarked against Google OR-Tools
+- Achieved **28% average reduction** in route distance vs naive baseline
+- Compared GA vs **Simulated Annealing** on convergence speed, solution quality & runtime
+- Visualized optimized routes on **interactive Folium map dashboard**
 
-<h3>🚚 Supply Chain Route Optimizer using Genetic Algorithms</h3>
-<p><i>Metaheuristic optimization for multi-depot Vehicle Routing Problem (VRP)</i></p>
-<ul>
-  <li>Solved 50-node VRP using custom <b>Genetic Algorithm (DEAP)</b>, benchmarked against Google OR-Tools</li>
-  <li>Achieved <b>28% average reduction</b> in total route distance over naive baseline</li>
-  <li>Compared GA vs <b>Simulated Annealing</b> on convergence speed, quality & runtime</li>
-  <li>Visualized optimized routes on <b>interactive Folium map dashboard</b></li>
-  <li><b>Stack:</b> Python · DEAP · OR-Tools · Simulated Annealing · Folium · Streamlit</li>
-</ul>
-<p>📂 <b>Repo:</b> <a href="https://github.com/Akshat1322/Supply-chain-route-optimizer">View Project</a></p>
+**[View Project →](https://github.com/Akshat1322/Supply-chain-route-optimizer)**
 
 ---
 
-<h3>🔍 Real-Time Defect Detection System (Computer Vision)</h3>
-<p><i>Industrial surface defect classification with spatial explainability</i></p>
-<ul>
-  <li>Fine-tuned <b>EfficientNetB0</b> on MVTec Anomaly Detection dataset achieving <b>94% F1-score</b> via transfer learning</li>
-  <li>Implemented <b>Grad-CAM heatmaps</b> to localize defect regions with spatial explainability</li>
-  <li>Applied <b>Albumentations</b> augmentation (elastic transforms, CoarseDropout) on limited industrial data</li>
-  <li>Deployed live <b>Streamlit demo</b> with image upload & real-time webcam inference</li>
-  <li><b>Stack:</b> Python · PyTorch · EfficientNetB0 · Grad-CAM · Albumentations · OpenCV · Streamlit</li>
-</ul>
-<p>📂 <b>Repo:</b> <a href="https://github.com/Akshat1322/Real-time-defect-detection-system">View Project</a></p>
+### 🔍 Real-Time Defect Detection System (Computer Vision)
+> Industrial surface defect classification · **94% F1-score**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/EfficientNetB0-7F77DD?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- Fine-tuned **EfficientNetB0** on MVTec Anomaly Detection dataset achieving **94% F1-score** via transfer learning
+- Implemented **Grad-CAM heatmaps** to localize defect regions with spatial explainability
+- Applied **Albumentations** augmentation (elastic transforms, CoarseDropout) on limited industrial data
+- Deployed live demo with **image upload & real-time webcam inference**
+
+**[View Project →](https://github.com/Akshat1322/Real-time-defect-detection-system)**
 
 ---
 
-<h3>🔬 Adaptive AI Research Assistant</h3>
-<p><i>Multi-agent system for intelligent research & knowledge synthesis</i></p>
-<ul>
-  <li>Combines <b>RAG + agents + real-time web retrieval</b></li>
-  <li>Supports <b>document ingestion, semantic search & contextual memory</b></li>
-  <li>Implements <b>dynamic agent routing & tool usage</b></li>
-  <li>Designed as a <b>modular, scalable AI system</b></li>
-  <li><b>Stack:</b> Python · LangChain · LlamaIndex · FAISS · Ollama · Streamlit</li>
-</ul>
-<p>📂 <b>Repo:</b> <a href="#">View Project</a></p>
+### 🔬 Adaptive AI Research Assistant
+> Multi-agent RAG system for intelligent research & knowledge synthesis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7F77DD?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+- Combines **RAG + agents + real-time web retrieval** for intelligent synthesis
+- Supports **document ingestion, semantic search & contextual memory**
+- Implements **dynamic agent routing & tool usage**
+
+**[View Project →](#)**
 
 ---
 
-<h2>🧰 Tech Stack</h2>
+## 🧰 Tech stack
 
-<p><b>ML & Deep Learning</b><br/>
-XGBoost · LightGBM · EfficientNet · ResNet · CNNs · Transfer Learning · SHAP · Grad-CAM · scikit-learn · PyTorch</p>
-
-<p><b>Optimization & GenAI</b><br/>
-Genetic Algorithms (DEAP) · Simulated Annealing · OR-Tools · Optuna · RAG Pipelines · LangChain · LlamaIndex · FAISS · Ollama</p>
-
-<p><b>Data & Visualization</b><br/>
-pandas · NumPy · Matplotlib · Seaborn · Plotly · Folium · MLflow</p>
-
-<p><b>Tools & Languages</b><br/>
-Python · C++ · SQL · Git · Docker · FastAPI · Streamlit · OpenCV · VS Code</p>
+| Category | Tools |
+|---|---|
+| **ML & Deep Learning** | XGBoost · LightGBM · EfficientNet · ResNet · CNNs · Transfer Learning · SHAP · Grad-CAM · scikit-learn · PyTorch |
+| **Optimization & GenAI** | Genetic Algorithms (DEAP) · Simulated Annealing · OR-Tools · Optuna · RAG Pipelines · LangChain · LlamaIndex · FAISS · Ollama |
+| **Data & Visualization** | pandas · NumPy · Matplotlib · Plotly · Folium · MLflow · Jupyter |
+| **Tools & Languages** | Python · C++ · SQL · Git · Docker · FastAPI · Streamlit · OpenCV · VS Code |
 
 ---
 
-<h2>📊 Activity</h2>
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat1322&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1322&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat1322&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1322&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9" height="165"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshat1322&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Akshat1322&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=1D9E75&fire=D85A30&currStreakLabel=C9D1D9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat1322&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F77DD&line=1D9E75&point=D85A30" />
 </p>
 
 ---
 
-<h2>🤝 Connect</h2>
+## 🤝 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akshat-sharma-7183b7288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -125,5 +138,6 @@ Python · C++ · SQL · Git · Docker · FastAPI · Streamlit · OpenCV · VS Co
 
 ---
 
-<h2>⚡ Philosophy</h2>
-<p><i>"AI is not just about models — it's about systems that can reason, retrieve, and act."</i></p>
+<p align="center">
+  <i>"AI is not just about models — it's about systems that can reason, retrieve, and act."</i>
+</p>
