@@ -24,7 +24,7 @@
 ## 🚀 Featured projects
 
 ### 📉 End-to-End Customer Churn Prediction System
-> Explainable ML pipeline for telecom customer churn · **91% AUC-ROC**
+> Explainable ML pipeline for telecom customer churn - **91% AUC-ROC**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
