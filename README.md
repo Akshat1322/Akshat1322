@@ -83,7 +83,7 @@
 | **ML & Deep Learning** | XGBoost · LightGBM · EfficientNet · ResNet · CNNs · Transfer Learning · SHAP · Grad-CAM · scikit-learn · PyTorch |
 | **Optimization & GenAI** | Genetic Algorithms (DEAP) · Simulated Annealing · OR-Tools · Optuna · RAG Pipelines · LangChain · LlamaIndex · FAISS · Ollama |
 | **Data & Visualization** | pandas · NumPy · Matplotlib · Plotly · Folium · MLflow · Jupyter |
-| **Tools & Languages** | Python · C++ · SQL · Git · Docker · FastAPI · Streamlit · OpenCV · VS Code|
+| **Tools & Languages** | Python · C++ · SQL · Git · Docker · FastAPI · Streamlit · OpenCV · VS Code AWS|
 
 ---
 
