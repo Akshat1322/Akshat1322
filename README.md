@@ -17,7 +17,7 @@
 - Build **end-to-end ML & DL systems** with explainability (SHAP, Grad-CAM)
 - Design **metaheuristic optimization pipelines** for real-world logistics problems
 - Develop **GenAI applications** using LLMs, RAG pipelines & agentic workflows
-- CS undergraduate @ JECRC University | AI & ML Specialization | CGPA: 8.55
+- CS undergraduate @ JECRC University | AI & ML Specialization | CGPA: 8.63
 
 ---
 
